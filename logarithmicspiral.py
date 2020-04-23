@@ -147,7 +147,7 @@ class SpiralAnimator:
             spiral.restart()
             
 
-    #generate kurwa random parameters    
+    #generate random parameters    
     def genRandomParams(self):
         width, height= self.width, self.height
         a=random.uniform(0,1)
